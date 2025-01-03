@@ -74,7 +74,7 @@ if (isDesktop()) {
     duration: 1,
     delay: 0.5,
     scrollTrigger: {
-      trigger: ".b  .picture",
+      trigger: ".b  aside",
       scroller: window,
       start: "top 60%",
     },
